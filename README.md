@@ -2,7 +2,7 @@
  - ASP .NET Core 3.1
  - Entity Framework Core 3.1
 # Install Packages
- - Microsoft.EntityFrameworkCore.Design
+ - Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation
  - Microsoft.EntityFrameworkCore.SqlServer
  - Microsoft.EntityFrameworkCore.Tools
 # ASP.Net-Core - Project Blog Game
